@@ -1,0 +1,8 @@
+dist
+node_modules
+Src
+dist.rar
+.env
+ticketText/**
+config.json
+dist
